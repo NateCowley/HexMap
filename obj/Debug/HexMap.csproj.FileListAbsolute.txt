@@ -1,0 +1,11 @@
+A:\GitHub\HexMap\bin\Debug\HexMap.exe.config
+A:\GitHub\HexMap\bin\Debug\HexMap.exe
+A:\GitHub\HexMap\bin\Debug\HexMap.pdb
+A:\GitHub\HexMap\obj\Debug\HexMap.csproj.AssemblyReference.cache
+A:\GitHub\HexMap\obj\Debug\HexMap.csproj.SuggestedBindingRedirects.cache
+A:\GitHub\HexMap\obj\Debug\HexMap.HexMap.resources
+A:\GitHub\HexMap\obj\Debug\HexMap.Properties.Resources.resources
+A:\GitHub\HexMap\obj\Debug\HexMap.csproj.GenerateResource.cache
+A:\GitHub\HexMap\obj\Debug\HexMap.csproj.CoreCompileInputs.cache
+A:\GitHub\HexMap\obj\Debug\HexMap.exe
+A:\GitHub\HexMap\obj\Debug\HexMap.pdb
